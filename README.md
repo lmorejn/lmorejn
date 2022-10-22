@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lmorejn
-- 👀 I’m interested in audio programming
+- 👀 I’m interested in GUI design and audio programming
 - 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
