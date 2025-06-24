@@ -1,1 +1,1 @@
-- Currently at 7.5 % of getting my Certified Full Stack Developer Diploma in freeCodeCamp(<fire>)
+- Currently at 7.7 % of getting my Certified Full Stack Developer Diploma in freeCodeCamp(<fire>)
